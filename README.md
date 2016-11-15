@@ -16,3 +16,5 @@
   bin下为java编译文件
 
   deleline_exe.rar为编译好的windows下执行程序。下载解压可以使用
+  
+  deleline_exe.rar 百度下载http://pan.baidu.com/s/1nuTBusT
