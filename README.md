@@ -3,6 +3,10 @@
 
 
 # 程序使用说明：
+下载安装：
+
+用java的直接打开deleline小程序就可以运行，没使用java的下载解压后使用deleline_exe.rar 百度下载http://pan.baidu.com/s/1nuTBusT
+
   1.ctrl+v把内容粘贴到input中，
   
   2.按回车或者点击下面按钮（“变变变”），就可以实现转换
@@ -16,5 +20,4 @@
   bin下为java编译文件
 
   deleline_exe.rar为编译好的windows下执行程序。下载解压可以使用
-  
-  deleline_exe.rar 百度下载http://pan.baidu.com/s/1nuTBusT
+   百度下载http://pan.baidu.com/s/1nuTBusT
